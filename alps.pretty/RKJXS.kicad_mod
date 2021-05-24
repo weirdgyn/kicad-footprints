@@ -1,4 +1,4 @@
-(module RKJXS (layer F.Cu) (tedit 60A62243)
+(module RKJXS (layer F.Cu) (tedit 60A6D261)
   (fp_text reference REF** (at 0 -6.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -20,7 +20,7 @@
   (pad "" np_thru_hole circle (at -2.33 2.33) (size 1.1 1.1) (drill 0.9) (layers *.Cu *.Mask))
   (pad P smd rect (at -2.675 -4.795 45) (size 1.2 1.5) (layers F.Cu F.Paste F.Mask))
   (pad C smd rect (at 2.675 4.795 45) (size 1.2 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/3D/RKJXS1004001/RKJXS1004001.STEP
+  (model ${KIPRJMOD}/3D/RKJXS1004001.stp
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 45))

@@ -1,0 +1,12 @@
+(module 3314J (layer F.Cu) (tedit 60AB77D4)
+  (attr smd)
+  (fp_text reference REF** (at 0 3.9) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 3314J (at 0 -3.7) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 2 smd rect (at 0 2.032) (size 1.99898 1.99898) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 1.143 -1.9685) (size 1.30048 1.99898) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at -1.143 -1.9685) (size 1.30048 1.99898) (layers F.Cu F.Paste F.Mask))
+)

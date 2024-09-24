@@ -312,7 +312,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "4c574a99-3f07-4392-8362-ca3cda8476cc")
 	)
-	(model "${KIPRJMOD}/ad.pretty/ADM3101EARQZ.step"
+	(model "${KIPRJMOD}/ad.pretty/3D/ADM3101EARQZ.step"
 		(offset
 			(xyz 0 0 0)
 		)

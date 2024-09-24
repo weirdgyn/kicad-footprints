@@ -23,7 +23,7 @@
     (thermal_bridge_angle 45) (tstamp befa858f-dd32-48bb-b5fe-20d7945b79f0))
   (pad "3" smd roundrect (at -1.15 1.65) (size 1.1 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 863cbc7e-d73f-411e-932d-3074dd970a20))
-  (model "${KIPRJMOD}/Bourns.pretty/PVG3A.stp"
+  (model "${KIPRJMOD}/bourns.pretty/3D/PVG3A.stp"
     (offset (xyz 9.2 -6.3 0.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

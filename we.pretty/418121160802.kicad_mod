@@ -222,7 +222,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "5fd14ae6-9c8a-4ae4-be66-7c890deabdde")
 	)
-	(model "${KIPRJMOD}/we.pretty/418121160802.stp"
+	(model "${KIPRJMOD}/we.pretty/3D/418121160802.stp"
 		(offset
 			(xyz 0 0 1.5)
 		)

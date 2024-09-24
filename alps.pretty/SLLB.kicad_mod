@@ -39,7 +39,7 @@
   (pad "4" smd roundrect (at 2.25 3.75 180) (size 1 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7d50c22b-e412-47a2-9eb1-55f2e50b1493))
   (pad "C" smd roundrect (at 3.75 3.75 180) (size 1 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 398c4932-1c98-4deb-813e-d45d261e9e66))
   (pad "T" smd roundrect (at -0.75 3.7 180) (size 1 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fb8d9235-b54c-4daa-a88c-3cba14641331))
-  (model "${KIPRJMOD}/ALPS.pretty/SLLB120300.STEP"
+  (model "${KIPRJMOD}/alps.pretty/3D/SLLB120300.STEP"
     (offset (xyz -1 -24.85 12.53))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

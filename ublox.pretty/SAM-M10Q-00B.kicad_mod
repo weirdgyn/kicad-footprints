@@ -1575,7 +1575,7 @@
 		(layers "F.Cu")
 		(uuid "c7ec1965-8c41-4f62-83c8-d70f4f216d66")
 	)
-	(model "${KIPRJMOD}/ublox.pretty/SAM-M10Q.stp"
+	(model "${KIPRJMOD}/ublox.pretty/3D/SAM-M10Q.stp"
 		(offset
 			(xyz 0 0 0)
 		)

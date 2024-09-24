@@ -57,7 +57,7 @@
   (pad "8" smd rect (at 2.1717 0) (size 1.4224 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 95731837-f371-4e48-b99a-bd20c0365231))
   (pad "9" smd rect (at 2.1717 -0.508) (size 1.4224 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c4f216f6-6e31-4d44-9f33-9036037738af))
   (pad "10" smd rect (at 2.1717 -1.016) (size 1.4224 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18424beb-d92b-4737-a094-9bd96a04fc15))
-  (model "${KIPRJMOD}/analog.pretty/3D/umax10.step"
+  (model "${KIPRJMOD}/ad.pretty/3D/umax10.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

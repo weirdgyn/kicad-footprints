@@ -170,7 +170,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "93b500f4-b852-4988-b92c-756c590ab759")
 	)
-	(model "${KIPRJMOD}/molex.pretty/53398-4008.stp"
+	(model "${KIPRJMOD}/molex.pretty/3D/53398-4008.stp"
 		(offset
 			(xyz 0 4 5.75)
 		)

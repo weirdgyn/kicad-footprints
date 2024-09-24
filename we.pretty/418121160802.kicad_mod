@@ -1,0 +1,236 @@
+(footprint "418121160802"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<b>WS-DISV</b><br> Small Compact SMT Flat Actuator with Top Tape 2.54 mm ,2 poles")
+	(property "Reference" "REF**"
+		(at 5.892 -3.0764 0)
+		(layer "F.SilkS")
+		(uuid "fdff400c-6757-44fe-9772-a04077756087")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "418121160802"
+		(at 8.6668 -1.7764 0)
+		(layer "F.Fab")
+		(uuid "35be0e07-4555-4f30-8089-aef050587614")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c035c76-d3aa-43ab-9ba7-dc9eae3e20e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fee0d9d5-d4c6-40a0-80ce-b0a1e3e63af5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5586ba2-32ad-4405-8869-4e4935420975")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.11 -3.2)
+		(end -3.11 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c733858-80e1-415e-aa04-e760e75df59c")
+	)
+	(fp_line
+		(start -3.11 3.2)
+		(end -2.17 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c56ebe73-be16-4389-8879-0cc953b55d95")
+	)
+	(fp_line
+		(start -2.17 -3.2)
+		(end -3.11 -3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "569e0ff6-873a-45db-b75a-ed694458149e")
+	)
+	(fp_line
+		(start -0.4 3.2)
+		(end 0.4 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f14e268-4f47-4bd8-82fb-3e46934ce707")
+	)
+	(fp_line
+		(start 0.4 -3.2)
+		(end -0.4 -3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79416596-7d03-4187-b2fb-44978443babb")
+	)
+	(fp_line
+		(start 2.17 -3.2)
+		(end 3.11 -3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "06e98306-26c9-4ac2-aaa0-64b6de2b78fa")
+	)
+	(fp_line
+		(start 3.11 -3.2)
+		(end 3.11 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "627b2b06-20d9-4838-a697-9d4ac51f7b37")
+	)
+	(fp_line
+		(start 3.11 3.2)
+		(end 2.17 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6ab3fb4f-f909-4dc3-9120-804762b37032")
+	)
+	(fp_circle
+		(center -1.77 2.7)
+		(end -1.67 2.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "196bb587-c99b-45df-bb71-bf4d83fa2975")
+	)
+	(fp_line
+		(start -3.01 -3.1)
+		(end 3.01 -3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1b5750e0-55a8-4461-bdaa-72de833253c3")
+	)
+	(fp_line
+		(start -3.01 3.1)
+		(end -3.01 -3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2cf93066-2664-47ee-ac5d-4c176e974861")
+	)
+	(fp_line
+		(start 3.01 -3.1)
+		(end 3.01 3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "62b78c84-0671-4f65-8420-aff3de4cc0b8")
+	)
+	(fp_line
+		(start 3.01 3.1)
+		(end -3.01 3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bcdec15c-2767-4389-8da7-5c376332c82d")
+	)
+	(pad "1" smd rect
+		(at -1.27 4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "1ded305f-f489-4eb1-84b1-2aef2e4aae8d")
+	)
+	(pad "2" smd rect
+		(at 1.27 4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "8a785f89-b027-4de0-9802-46c5e1d1312e")
+	)
+	(pad "A1" smd rect
+		(at -1.27 -4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "5b1b282f-62ec-4a41-a6f4-11064d58f51c")
+	)
+	(pad "A2" smd rect
+		(at 1.27 -4.4)
+		(size 1.1 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "5fd14ae6-9c8a-4ae4-be66-7c890deabdde")
+	)
+	(model "${KIPRJMOD}/we.pretty/418121160802.stp"
+		(offset
+			(xyz 0 0 1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

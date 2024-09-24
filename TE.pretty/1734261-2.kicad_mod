@@ -35,7 +35,7 @@
     (thermal_bridge_angle 45) (tstamp 57878946-2f93-4f73-bdb5-2c9575b92aec))
   (pad "S2" smd roundrect (at 3.175 -2.9 180) (size 2.1 3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp ca540cd6-686a-4679-8f96-b2ebed486b5f))
-  (model "${KIPRJMOD}/TE.pretty/c-1734261-2-a-3d.stp"
+  (model "${KIPRJMOD}/TE.pretty/3D/c-1734261-2-a-3d.stp"
     (offset (xyz 0 4.4 2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

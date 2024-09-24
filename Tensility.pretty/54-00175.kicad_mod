@@ -67,7 +67,7 @@
     (solder_mask_margin 0.102) (tstamp e55e578e-d944-4600-baa2-4eac4dd00f67))
   (pad "5" thru_hole oval (at -4.3 -4.5) (size 1.008 2.016) (drill oval 0.5 1.2) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp f717094f-de23-42a4-be2e-fe2c4a4aef5b))
-  (model "${KIPRJMOD}/Tensility.pretty/54-00175.step"
+  (model "${KIPRJMOD}/Tensility.pretty/3D/54-00175.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
